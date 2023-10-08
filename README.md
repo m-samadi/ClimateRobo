@@ -1,4 +1,4 @@
-# ClimateRobo
+# The ClimateRobo robot
 This program is the simulation process of the ClimateRobo presented in the paper entitled "Implementation of an Autonomous Intelligent Mobile Robot for Climate Purposes" published by Inderscience Publishers on 30 June 2019.
 <br/>
 <br/>
